@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-[![Sasaki-Motoaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sasaki-Motoaki&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Sasaki-Motoaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sasaki-Motoaki&theme=highcontrast&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasaki-Motoaki&hide=css,scss,html)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
