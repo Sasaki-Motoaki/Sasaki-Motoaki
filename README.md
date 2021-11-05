@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Sasaki-Motoaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sasaki-Motoaki)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Sasaki-Motoaki/Sasaki-Motoaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
