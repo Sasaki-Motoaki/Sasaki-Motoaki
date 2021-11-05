@@ -4,7 +4,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sasaki-Motoaki&theme=highcontrast&show_icons=false&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasaki-Motoaki&hide=css,scss,html" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasaki-Motoaki&hide=css,scss,html&layout=compact" />
 </a>
 
 
