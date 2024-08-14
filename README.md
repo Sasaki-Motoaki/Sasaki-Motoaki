@@ -1,14 +1,7 @@
 ### Hi there 👋
 
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=msasaki666&theme=highcontrast&show_icons=false&count_private=true&theme=dark" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msasaki666&hide=css,scss,html,cmake,c%2B%2B,javascript,elixir&layout=compact&langs_count=10" />
-  </a>
-</div>
-
+![stats](https://github-readme-stats.vercel.app/api?username=msasaki666&theme=highcontrast&show_icons=false&count_private=true&theme=dark)
+![top-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msasaki666&hide=css,scss,html,cmake,c%2B%2B,javascript,elixir&layout=compact&langs_count=10)
 
 ### 職務経歴書
 https://github.com/msasaki666/resume/blob/master/resume.pdf
