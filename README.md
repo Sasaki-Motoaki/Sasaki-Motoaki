@@ -5,11 +5,11 @@
 </p>
 
 
-![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msasaki666&theme=2077)
-![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msasaki666&theme=2077)
-![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msasaki666&theme=2077)
-![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=msasaki666&theme=2077)
-![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=msasaki666&theme=2077&utcOffset=9)
+![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msasaki666&theme=github_dark)
+![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msasaki666&theme=github_dark)
+![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msasaki666&theme=github_dark)
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=msasaki666&theme=github_dark)
+![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=msasaki666&theme=github_dark&utcOffset=9)
 
 ### 職務経歴書
 https://github.com/msasaki666/resume/blob/master/resume.pdf
