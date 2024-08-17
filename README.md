@@ -10,6 +10,7 @@
 ![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msasaki666&theme=github_dark)
 ![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=msasaki666&theme=github_dark)
 ![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=msasaki666&theme=github_dark&utcOffset=9)
+![trophy](https://github-profile-trophy.vercel.app/?username=msasaki666&theme=gruvbox)
 
 ### 職務経歴書
 https://github.com/msasaki666/resume/blob/master/resume.pdf
