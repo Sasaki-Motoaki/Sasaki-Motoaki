@@ -13,7 +13,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=msasaki666&theme=gruvbox)
 
 ### 職務経歴書
-https://github.com/msasaki666/resume/blob/master/resume.pdf
+https://github.com/msasaki666/resume/blob/master/resume.md
 
 <!--
 **Sasaki-Motoaki/Sasaki-Motoaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
